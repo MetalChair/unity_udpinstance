@@ -1,0 +1,4 @@
+/home/logan/projects/networker/bin/Debug/netstandard2.1/publish/networker.dll
+/home/logan/projects/networker/bin/Debug/netstandard2.1/publish/networker.deps.json
+/home/logan/projects/networker/bin/Debug/netstandard2.1/publish/networker.pdb
+/home/logan/projects/networker/bin/Debug/netstandard2.1/publish/UnityEngine.dll

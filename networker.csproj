@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>.\libs\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="Test" AfterTargets="Publish">
+    <Message Text="Running rsync command..." Importance="high" />
+    <Exec Command="rsync -av \-\-exclude='**/*UnityEngine.dll' --exclude='**/*Microsoft.CSharp.dll' './bin/Debug/netstandard2.1/publish/.' '/mnt/d/Files/Documents/unity_projects/SlingerCity/Assets/Plugins'" />
+  </Target>
+</Project>

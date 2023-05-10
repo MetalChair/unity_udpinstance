@@ -1,0 +1,14 @@
+/home/logan/projects/networker/bin/Debug/net7.0/networker.deps.json
+/home/logan/projects/networker/bin/Debug/net7.0/networker.dll
+/home/logan/projects/networker/bin/Debug/net7.0/networker.pdb
+/home/logan/projects/networker/bin/Debug/net7.0/UnityEngine.dll
+/home/logan/projects/networker/obj/Debug/net7.0/networker.csproj.AssemblyReference.cache
+/home/logan/projects/networker/obj/Debug/net7.0/networker.GeneratedMSBuildEditorConfig.editorconfig
+/home/logan/projects/networker/obj/Debug/net7.0/networker.AssemblyInfoInputs.cache
+/home/logan/projects/networker/obj/Debug/net7.0/networker.AssemblyInfo.cs
+/home/logan/projects/networker/obj/Debug/net7.0/networker.csproj.CoreCompileInputs.cache
+/home/logan/projects/networker/obj/Debug/net7.0/networker.csproj.CopyComplete
+/home/logan/projects/networker/obj/Debug/net7.0/networker.dll
+/home/logan/projects/networker/obj/Debug/net7.0/refint/networker.dll
+/home/logan/projects/networker/obj/Debug/net7.0/networker.pdb
+/home/logan/projects/networker/obj/Debug/net7.0/ref/networker.dll
